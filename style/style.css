@@ -1,0 +1,7 @@
+body > div > div > div > ul > li {
+	margin-top:30px;
+}
+
+body > div > div > div > ul > li > button {
+	float:right;
+}
